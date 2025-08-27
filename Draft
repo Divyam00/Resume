@@ -294,7 +294,7 @@
   \resumeSubHeadingListStart
 
 
-    \resumeSubheading{TETRA Desalination Project (UOP)}{June 2025 - Present}{Client - TETRA Technologies LLC, TX, USA}{Permian Basin - TX, USA }
+    \resumeSubheading{TETRA Desalination Project (UOP)}{June 2025 - Present}{Client - TETRA Technologies LLC, TX, USA}{SHELL / EOG - Permian Basin oil companies- TX, USA }
 
 
       \resumeItemListStart
@@ -348,7 +348,7 @@
   \resumeSubHeadingListStart
 
 
-    \resumeSubheading{TETRA Desalination Project (UOP)}{June 2025 - Present}{Client - TETRA Technologies LLC, TX, USA}{Permian Basin - TX, USA }
+    \resumeSubheading{Oil Custody Terminal and LACT Unit (EM)}{April 2025 - June 2025}{Client - ExxonMobil-led Esso Exploration and Production Chad Inc. (EEPCI), Chad}{Doba Basin - MA, Chad Republics}
 
 
       \resumeItemListStart
@@ -362,6 +362,7 @@
 
         \resumeItem{Used \textbf{Nominatim geocoding} to localize start points and ensure routing avoids previously logged paths.}
 
+\vspace{\baselineskip}   % adds one line space
 
     \resumeSubHeadingListEnd
 
@@ -373,7 +374,7 @@
   \resumeSubHeadingListStart
 
 
-    \resumeSubheading{Utthunga Technologies - American and European Business }{April 2025 – Present}{\textbf{Process Engineer} (EPC-FEED)}{Bengaluru, KA, India / Houston, TX, USA}
+    \resumeSubheading{Aarti Industries LTD }{May 2022 – March 2025}{\textbf{Process Technical Engineer} (GF / BF Projects)}{Vapi, GJ, India}
 
 
     \resumeSubHeadingListEnd
@@ -382,7 +383,7 @@
   \resumeSubHeadingListStart
 
 
-    \resumeSubheading{TETRA Desalination Project (UOP)}{June 2025 - Present}{Client - TETRA Technologies LLC, TX, USA}{Permian Basin - TX, USA }
+    \resumeSubheading{Trident - II (450 TPD)}{June 2025 - Present}{Site - Brown Field - Organic Division}{Vapi - GJ, IND }
 
 
       \resumeItemListStart
@@ -406,7 +407,7 @@
   \resumeSubHeadingListStart
 
 
-    \resumeSubheading{TETRA Desalination Project (UOP)}{June 2025 - Present}{Client - TETRA Technologies LLC, TX, USA}{Permian Basin - TX, USA }
+    \resumeSubheading{1,2,3-TCB Project (2000 TPA)}{June 2025 - Present}{Site - Brown Field - Nascent Division}{Vapi - GJ, IND }
 
 
       \resumeItemListStart
@@ -426,35 +427,12 @@
 
       \resumeItemListEnd
 
-
-  \resumeSubHeadingListStart
-
-
-    \resumeSubheading{TETRA Desalination Project (UOP)}{June 2025 - Present}{Client - TETRA Technologies LLC, TX, USA}{Permian Basin - TX, USA }
-
-
-      \resumeItemListStart
-
-
-         \resumeItem{Built a \textbf{Python-based} cycling route planner that generates unexplored 20-mile bike loops using personal ride data.}
-
-
-        \resumeItem{Applied GPX clustering via \textbf{DBSCAN} to identify ridden segments and integrated \textbf{OSMNX} for OpenStreetMap-based route generation.}
-
-
-        \resumeItem{Used \textbf{Nominatim geocoding} to localize start points and ensure routing avoids previously logged paths.}
-
-
-    \resumeSubHeadingListEnd
-
-
-      \resumeItemListEnd
 
       
   \resumeSubHeadingListStart
 
 
-    \resumeSubheading{TETRA Desalination Project (UOP)}{June 2025 - Present}{Client - TETRA Technologies LLC, TX, USA}{Permian Basin - TX, USA }
+    \resumeSubheading{Acid Plant (760 TPD)}{June 2025 - Present}{Site - Broun Field - Acid Division}{Vapi - GJ, IND }
 
 
       \resumeItemListStart
@@ -473,12 +451,35 @@
 
 
       \resumeItemListEnd
-      
 
   \resumeSubHeadingListStart
 
 
-    \resumeSubheading{TETRA Desalination Project (UOP)}{June 2025 - Present}{Client - TETRA Technologies LLC, TX, USA}{Permian Basin - TX, USA }
+    \resumeSubheading{ MCB Continuous Nitration, Column and Crystallizer (350 TPD)}{June 2025 - Present}{Site - Green Field - Organic Division}{Vapi - GJ, IND }
+
+
+      \resumeItemListStart
+
+
+         \resumeItem{Built a \textbf{Python-based} cycling route planner that generates unexplored 20-mile bike loops using personal ride data.}
+
+
+        \resumeItem{Applied GPX clustering via \textbf{DBSCAN} to identify ridden segments and integrated \textbf{OSMNX} for OpenStreetMap-based route generation.}
+
+
+        \resumeItem{Used \textbf{Nominatim geocoding} to localize start points and ensure routing avoids previously logged paths.}
+
+
+    \resumeSubHeadingListEnd
+
+
+      \resumeItemListEnd
+   
+
+  \resumeSubHeadingListStart
+
+
+    \resumeSubheading{ONA-ONCB Capacity Enhancement }{June 2025 - Present}{Site - Brown Field – Amin Division }{Vapi - GJ, IND }
 
 
       \resumeItemListStart
