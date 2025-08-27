@@ -135,15 +135,15 @@
 \begin{center}
 
 
-    {\Huge \scshape Divyam Savaliya} \\ \vspace{1pt}
+    {\Huge \scshape Divyam Savaliya} \\ \vspace{8pt}
 
 
 \faMapMarker*~Bengaluru, KA \quad 
 \faPhone*~+91 8460319976 \quad
 \faEnvelope~\href{mailto:savaliyadivyam007@gmail.com}{savaliyadivyam007@gmail.com} \quad
 
-
-\faGithub~\href{https://github.com/yeleshwarapu}{divyam.sb}
+\faLinkedin~\href{https://www.linkedin.com/in/divyamsavaliya/}{Divyam Savaliya} \quad
+\faGithub~\href{https://github.com/Divyam00}{Divyam00}
 
 
 \end{center}
@@ -160,6 +160,7 @@
 
     \resumeSubheading{Dharamsinh Desai University, Nadiad}{2019 - 2022}{B.Tech in Chemical Engineering}{}
 
+    \vspace{\baselineskip} 
   
     \resumeSubheading{Gujarat Technological University, Gandhinagar}{2016 - 2019}{Diploma in Chemical Engineering}{}
 
@@ -175,25 +176,24 @@
 \resumeSubHeadingListStart
 
 
-  \resumeSubheading{Utthunga}{Jun 2025 – Present}{Mechanical Engineering Intern}{Bengaluru, India / Houston, TX}
+  \resumeSubheading{Utthunga Technologies - American and European Business }{April 2025 – Present}{\textbf{Process Engineer} (EPC-FEED)}{Bengaluru, KA, India / Houston, TX, USA}
 
 
      \resumeItemListStart
 
+        \resumeItem{Prepare concepts and conduct feasibility studies to support project development and decision-making.}
 
-        \resumeItem{Built a \textbf{pump health classifier} using synthetic vibration, temperature, and pressure data to detect OK/Warning/Failure states; achieved \textbf{96\% accuracy} with decision trees and visualized key features for interpretability.}
+        \resumeItem{Prepare proposals, and ensure deliverables meet quality, cost, and schedule requirements; also, assist in developing project schedules, man-hour estimates, and deliverables lists.}
+        
+        \resumeItem{Develop and review process design basis, philosophies, and guidelines, while supporting FEED and EPC deliverables, vendor document reviews, and ensuring compliance with applicable codes, standards, and client specifications.}
 
+        \resumeItem{Develop and review PFDs, PIDs, heat and material balances, and process datasheets.}
 
-        \resumeItem{Developed a \textbf{parametric Python tool} to model centrifugal pump performance curves (head, NPSH, power, efficiency) at arbitrary RPMs using 2D interpolation.}
+        \resumeItem{Design and simulate processes and equipment such as distillation columns, heat exchangers, reactors, and pumps using Aspen Plus, and perform detailed design, rating, and simulation of heat exchangers (STHE, reboilers, condensers, PHEs) using Aspen EDR and HTRI software.}
 
+        \resumeItem{Preparation of SOP, SOC, Control Philosophy Interlock, Cause and Effect diagram and Alarm List.}
 
-        \resumeItem{Engineered a \textbf{CLI + Plotly interface} to query interpolated pump data across RPM and flow conditions, inspired by APM usability workflows.}
-
-
-        \resumeItem{Designed a modular \textbf{Python} tool for shell-and-tube heat exchanger analysis using LMTD and \(\varepsilon\)-NTU methods; computed pressure drop, outlet temperature, and thermal area from YAML/CSV inputs.}
-
-
-        \resumeItem{Generated thermal effectiveness and temperature distribution plots for exchanger designs, targeting integration into simulation dashboards.}
+        \resumeItem{Coordinate FAT / SAT to ensure compliance with design specifications and operational requirements.}
 
 
     \resumeItemListEnd
@@ -201,6 +201,39 @@
 
 \resumeSubHeadingListEnd
  
+\vspace{\baselineskip} 
+
+
+\resumeSubHeadingListStart
+
+
+  \resumeSubheading{Aarti Industries LTD - Projects }{May 2022 – April 2025}{\textbf{Process Technical Design Engineer}}{Vapi, GJ, India}
+
+
+     \resumeItemListStart
+
+        \resumeItem{Prepare BEP and FEED packages for Greenfield and Brownfield projects, including concept note preparation, feasibility studies, and cost/profitability analysis..}
+
+        \resumeItem{Develop process design deliverables such as PFDs, PIDs, PDS/IPDS, Heat and Mass Balance, heat maps, utility calculations, and process philosophies.}
+        
+        \resumeItem{Conduct process simulations and equipment design (distillation columns, reactors, pumps, heat exchangers, etc.) using Aspen Plus, Aspen HYSYS, Aspen EDR, and HTRI.}
+
+        \resumeItem{Perform equipment sizing and rating (pumps, compressors, vessels, columns, STHE, reboilers, condensers, PHEs) along with hydraulic calculations, line sizing, and control valve sizing.}
+
+        \resumeItem{Carry out safety studies and design including PSV sizing, vent sizing, control philosophy, interlocks, cause & effect diagrams, alarm lists, and safeguarding systems.}
+
+        \resumeItem{Support process intensification and debottlenecking studies to improve performance and efficiency of existing units.}
+
+        \resumeItem{Prepare operational deliverables including SOPs, SOCs, and commissioning/start-up support for new and revamped facilities.}
+
+
+    \resumeItemListEnd
+
+
+\resumeSubHeadingListEnd
+ 
+
+
  
 %-----------ENGINEERING EXPERIENCE-----------
 
