@@ -140,7 +140,7 @@
 
 \faMapMarker*~Bengaluru, KA \quad 
 \faPhone*~+91 8460319976 \quad
-\faEnvelope~\href{mailto:ayele002@ucr.edu}{savaliyadivyam007@gmail.com} \quad
+\faEnvelope~\href{mailto:savaliyadivyam007@gmail.com}{savaliyadivyam007@gmail.com} \quad
 
 
 \faGithub~\href{https://github.com/yeleshwarapu}{divyam.sb}
@@ -160,18 +160,8 @@
 
     \resumeSubheading{Dharamsinh Desai University, Nadiad}{2019 - 2022}{B.Tech in Chemical Engineering}{}
 
-
-      \resumeItemListStart
-
-
-        \resumeItem{Relevant Coursework: Engineering Graphics \& Design, Engineering Computation (MATLAB), Engineering Modeling, Statics}
-
-
-        \resumeItem{Upcoming: Linear Systems and Control, Heat Transfer, Experimental Techniques, Machine Design}
-
-
-      \resumeItemListEnd
-
+  
+    \resumeSubheading{Gujarat Technological University, Gandhinagar}{2016 - 2019}{Diploma in Chemical Engineering}{}
 
   \resumeSubHeadingListEnd
 
