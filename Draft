@@ -300,13 +300,13 @@
       \resumeItemListStart
 
 
-         \resumeItem{Built a \textbf{Python-based} cycling route planner that generates unexplored 20-mile bike loops using personal ride data.}
+         \resumeItem{Hybrid Desalination Technology Development: Worked on a desalination project in collaboration with Honeywell, developing a novel hybrid system integrating membrane-based and thermal-based technologies.}
 
 
-        \resumeItem{Applied GPX clustering via \textbf{DBSCAN} to identify ridden segments and integrated \textbf{OSMNX} for OpenStreetMap-based route generation.}
+        \resumeItem{Process Design \& Simulation: Conducted process modeling, simulation, and optimization to evaluate performance, recovery rates, and energy efficiency of the hybrid desalination process.}
 
 
-        \resumeItem{Used \textbf{Nominatim geocoding} to localize start points and ensure routing avoids previously logged paths.}
+        \resumeItem{Technical Deliverables \& Collaboration: Prepared process deliverables (PFDs, P\&IDs, mass/energy balances), performed feasibility assessments, and collaborated with multidisciplinary teams to validate design and scale-up potential.}
 
 
     \resumeSubHeadingListEnd
@@ -314,12 +314,7 @@
 
       \resumeItemListEnd
 
-
-
-
   \resumeSubHeadingListStart
-
-
 
     \resumeSubheading{Flare Network Analysis (Honeywell)}{June 2025 - Present}{Client - MOL Hungarian Oil company, Budapest, HU}{Honeywell - NC, USA }
 
@@ -327,22 +322,19 @@
       \resumeItemListStart
 
 
-         \resumeItem{Built a \textbf{Python-based} cycling route planner that generates unexplored 20-mile bike loops using personal ride data.}
+         \resumeItem{Flare Network Analysis: Executed a detailed flare network analysis project in collaboration with Honeywell, ensuring safe and reliable design in compliance with industry standards.}
 
 
-        \resumeItem{Applied GPX clustering via \textbf{DBSCAN} to identify ridden segments and integrated \textbf{OSMNX} for OpenStreetMap-based route generation.}
+        \resumeItem{Simulation \& Verification: Performed hydraulic calculations, pressure drop analysis, and relief load verification using simulation tools to validate system adequacy under normal and emergency scenarios.}
 
 
-        \resumeItem{Used \textbf{Nominatim geocoding} to localize start points and ensure routing avoids previously logged paths.}
+        \resumeItem{Optimization \& Documentation: Identified potential bottlenecks, proposed network optimization measures, and prepared technical documentation for client review and approval.}
 
 
     \resumeSubHeadingListEnd
 
 
       \resumeItemListEnd
-
-
-
       
 
   \resumeSubHeadingListStart
@@ -354,13 +346,11 @@
       \resumeItemListStart
 
 
-         \resumeItem{Built a \textbf{Python-based} cycling route planner that generates unexplored 20-mile bike loops using personal ride data.}
+         \resumeItem{Performed equipment sizing and hydraulic calculations using Aspen HYSYS and OLGA. And Developed and reviewed PFDs, P\&IDs, and process datasheets.}
 
 
-        \resumeItem{Applied GPX clustering via \textbf{DBSCAN} to identify ridden segments and integrated \textbf{OSMNX} for OpenStreetMap-based route generation.}
+        \resumeItem{Executed process design for Lease Automatic Custody Transfer (LACT) units in line with ExxonMobil standards.}
 
-
-        \resumeItem{Used \textbf{Nominatim geocoding} to localize start points and ensure routing avoids previously logged paths.}
 
 \vspace{\baselineskip}   % adds one line space
 
@@ -368,83 +358,52 @@
 
 
       \resumeItemListEnd
-
-
       
   \resumeSubHeadingListStart
 
 
     \resumeSubheading{Aarti Industries LTD }{May 2022 – March 2025}{\textbf{Process Technical Engineer} (GF / BF Projects)}{Vapi, GJ, India}
 
-
     \resumeSubHeadingListEnd
- 
+
 
   \resumeSubHeadingListStart
 
+    \resumeSubheading{Trident - II (450 TPD)}{Oct 2024 - March 2025}{Site - Brown Field - Organic Division}{Vapi - GJ, IND }
 
-    \resumeSubheading{Trident - II (450 TPD)}{June 2025 - Present}{Site - Brown Field - Organic Division}{Vapi - GJ, IND }
+      \resumeItemListStart
+
+
+         \resumeItem{Involved in concept development and feasibility study for a new ONCB chlorination unit. Supporting preliminary process design, capacity evaluation, and identification of critical equipment and utility requirements in alignment with project objectives.}
+
+    \resumeSubHeadingListEnd
+      \resumeItemListEnd
+
+  \resumeSubHeadingListStart
+
+    \resumeSubheading{1,2,3-TCB Project (2000 TPA)}{April 2024 - Oct 2024}{Site - Brown Field - Nascent Division}{Vapi - GJ, IND }
 
 
       \resumeItemListStart
 
 
-         \resumeItem{Built a \textbf{Python-based} cycling route planner that generates unexplored 20-mile bike loops using personal ride data.}
-
-
-        \resumeItem{Applied GPX clustering via \textbf{DBSCAN} to identify ridden segments and integrated \textbf{OSMNX} for OpenStreetMap-based route generation.}
-
-
-        \resumeItem{Used \textbf{Nominatim geocoding} to localize start points and ensure routing avoids previously logged paths.}
-
+         \resumeItem{Led concept, basic, and detailed engineering. Simulated distillation columns in Aspen Plus and EDR, prepared PFDs, PIDs, equipment/line lists, and control philosophy. Supported commissioning and startup.}
 
     \resumeSubHeadingListEnd
 
-
       \resumeItemListEnd
-
-
-  \resumeSubHeadingListStart
-
-
-    \resumeSubheading{1,2,3-TCB Project (2000 TPA)}{June 2025 - Present}{Site - Brown Field - Nascent Division}{Vapi - GJ, IND }
-
-
-      \resumeItemListStart
-
-
-         \resumeItem{Built a \textbf{Python-based} cycling route planner that generates unexplored 20-mile bike loops using personal ride data.}
-
-
-        \resumeItem{Applied GPX clustering via \textbf{DBSCAN} to identify ridden segments and integrated \textbf{OSMNX} for OpenStreetMap-based route generation.}
-
-
-        \resumeItem{Used \textbf{Nominatim geocoding} to localize start points and ensure routing avoids previously logged paths.}
-
-
-    \resumeSubHeadingListEnd
-
-
-      \resumeItemListEnd
-
-
       
   \resumeSubHeadingListStart
 
 
-    \resumeSubheading{Acid Plant (760 TPD)}{June 2025 - Present}{Site - Broun Field - Acid Division}{Vapi - GJ, IND }
+    \resumeSubheading{Acid Plant (760 TPD)}{April 2023 - April 2024}{Site - Broun Field - Acid Division}{Vapi - GJ, IND }
 
 
       \resumeItemListStart
 
+         \resumeItem{Prepared concept proposals and feasibility studies, developed complete BEP, supported DEP, and performed process simulation and optimization, improving energy efficiency by up to 10\% through heat integration networks.}
 
-         \resumeItem{Built a \textbf{Python-based} cycling route planner that generates unexplored 20-mile bike loops using personal ride data.}
-
-
-        \resumeItem{Applied GPX clustering via \textbf{DBSCAN} to identify ridden segments and integrated \textbf{OSMNX} for OpenStreetMap-based route generation.}
-
-
-        \resumeItem{Used \textbf{Nominatim geocoding} to localize start points and ensure routing avoids previously logged paths.}
+        \resumeItem{Participated in HAZOP studies and performed end-to-end plant commissioning, including pre-startup activities, ultimately handing over the plant to the operations team.}
 
 
     \resumeSubHeadingListEnd
@@ -455,19 +414,19 @@
   \resumeSubHeadingListStart
 
 
-    \resumeSubheading{ MCB Continuous Nitration, Column and Crystallizer (350 TPD)}{June 2025 - Present}{Site - Green Field - Organic Division}{Vapi - GJ, IND }
+    \resumeSubheading{MCB Continuous Nitration, Column and Crystallizer (350 TPD)}{Oct 2022 - May 2023}{Site - Green Field - Organic Division}{Vapi - GJ, IND }
 
 
       \resumeItemListStart
 
 
-         \resumeItem{Built a \textbf{Python-based} cycling route planner that generates unexplored 20-mile bike loops using personal ride data.}
+         \resumeItem{Conceptualization \& Engineering: Prepared concept proposals, and executed basic \& detailed engineering for the entire project, including technology transfer and scaling processes from pilot to commercial scale.}
 
 
-        \resumeItem{Applied GPX clustering via \textbf{DBSCAN} to identify ridden segments and integrated \textbf{OSMNX} for OpenStreetMap-based route generation.}
+        \resumeItem{Process \& Equipment Design: Designed major equipment, simulated distillation columns in Aspen Plus and EDR, verified column internals and hydraulics, and prepared PFDs, utility flow diagrams, plant layouts, P\&IDs, equipment lists, SOPs, SOCs, and mass/energy balances.}
 
 
-        \resumeItem{Used \textbf{Nominatim geocoding} to localize start points and ensure routing avoids previously logged paths.}
+        \resumeItem{Commissioning \& Handover: Developed interlocks and control philosophy for Automation, performed pre-startup and commissioning activities, conducted startup trials, and handed over the plant to the operations team.}
 
 
     \resumeSubHeadingListEnd
@@ -479,48 +438,18 @@
   \resumeSubHeadingListStart
 
 
-    \resumeSubheading{ONA-ONCB Capacity Enhancement }{June 2025 - Present}{Site - Brown Field – Amin Division }{Vapi - GJ, IND }
+    \resumeSubheading{ONA-ONCB Capacity Enhancement }{July 2022 - Oct 2023}{Site - Brown Field – Amin Division }{Vapi - GJ, IND }
 
 
       \resumeItemListStart
 
-
-         \resumeItem{Built a \textbf{Python-based} cycling route planner that generates unexplored 20-mile bike loops using personal ride data.}
-
-
-        \resumeItem{Applied GPX clustering via \textbf{DBSCAN} to identify ridden segments and integrated \textbf{OSMNX} for OpenStreetMap-based route generation.}
-
-
-        \resumeItem{Used \textbf{Nominatim geocoding} to localize start points and ensure routing avoids previously logged paths.}
-
+         \resumeItem{Focused on process optimization and capacity enhancement. Identified bottlenecks, proposed design changes, and supported full-scale commissioning.}
 
     \resumeSubHeadingListEnd
 
 
 
- 
-%   \resumeSubheading{Cooling Optimization Digital Twin}{2025}{Riverside, CA}{}
-
-
-%   \resumeItemListStart
-
-
-%     \resumeItem{Developed a \textbf{MATLAB digital twin} simulating EV inverter thermal behavior using lumped capacitance and simulated speed/heat profiles.}
-
-
-%     \resumeItem{Tested fan count, radiator area, and PWM control curves; \textbf{reduced peak temp by 11°C} vs bang-bang control with similar fan energy.}
-
-
-%     \resumeItem{Used \texttt{fmincon} for control optimization and designed STM32-compatible architecture for future \textbf{CAN-logged telemetry}.}
-
-
-%     \resumeItem{Codebase and writeup: \href{https://github.com/yeleshwarapu/fsae-cooling-twin}{\texttt{github.com/yeleshwarapu/fsae-cooling-twin}}}
-
-
-%   \resumeItemListEnd
-
-
-% \resumeSubHeadingListEnd
+\resumeItemListEnd
 
 \end{document}
  
