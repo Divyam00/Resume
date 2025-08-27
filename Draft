@@ -1,0 +1,334 @@
+%-------------------------
+
+
+% Resume in Latex - Arjun Hybrid Systems Version
+
+
+% Based off Jake Gutierrez template
+
+
+%-------------------------
+ 
+\documentclass[letterpaper,10.5pt]{article}
+ 
+\usepackage{latexsym}
+
+
+\usepackage[empty]{fullpage}
+
+
+\usepackage{titlesec}
+
+
+\usepackage{marvosym}
+
+
+\usepackage{fontawesome5}
+
+
+\usepackage[usenames,dvipsnames]{color}
+
+
+\usepackage{verbatim}
+
+
+\usepackage{enumitem}
+
+
+\usepackage[hidelinks]{hyperref}
+
+
+\usepackage{fancyhdr}
+
+
+\usepackage[english]{babel}
+
+
+\usepackage{tabularx}
+
+
+\input{glyphtounicode}
+ 
+\pagestyle{fancy}
+
+
+\fancyhf{}
+
+
+\renewcommand{\headrulewidth}{0pt}
+
+
+\renewcommand{\footrulewidth}{0pt}
+ 
+\addtolength{\oddsidemargin}{-0.5in}
+
+
+\addtolength{\evensidemargin}{-0.5in}
+
+
+\addtolength{\textwidth}{1in}
+
+
+\addtolength{\topmargin}{-.5in}
+
+
+\addtolength{\textheight}{1.0in}
+ 
+\urlstyle{same}
+ 
+\raggedbottom
+
+
+\raggedright
+
+
+\setlength{\tabcolsep}{0in}
+ 
+\titleformat{\section}{\vspace{-4pt}\scshape\raggedright\large}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+
+\pdfgentounicode=1
+ 
+% Custom commands
+
+
+\newcommand{\resumeItem}[1]{\item\small{#1 \vspace{-2pt}}}
+ 
+\newcommand{\resumeSubheading}[4]{
+
+
+  \vspace{-2pt}\item
+
+
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+
+
+      \textbf{#1} & #2 \\
+
+
+      \textit{\small#3} & \textit{\small #4} \\
+
+
+    \end{tabular*}\vspace{-7pt}
+
+
+}
+ 
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]} 
+
+
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+
+
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+
+
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+ 
+%-------------------------------------------
+ 
+\begin{document}
+ 
+%----------HEADING----------
+
+
+\begin{center}
+
+
+    {\Huge \scshape Divyam Savaliya} \\ \vspace{1pt}
+
+
+\faMapMarker*~Bengaluru, KA \quad 
+\faPhone*~+91 8460319976 \quad
+\faEnvelope~\href{mailto:ayele002@ucr.edu}{savaliyadivyam007@gmail.com} \quad
+
+
+\faGithub~\href{https://github.com/yeleshwarapu}{divyam.sb}
+
+
+\end{center}
+ 
+ 
+%-----------EDUCATION-----------
+
+
+\section{Education}
+
+
+  \resumeSubHeadingListStart
+
+
+    \resumeSubheading{Dharamsinh Desai University, Nadiad}{2019 - 2022}{B.Tech in Chemical Engineering}{}
+
+
+      \resumeItemListStart
+
+
+        \resumeItem{Relevant Coursework: Engineering Graphics \& Design, Engineering Computation (MATLAB), Engineering Modeling, Statics}
+
+
+        \resumeItem{Upcoming: Linear Systems and Control, Heat Transfer, Experimental Techniques, Machine Design}
+
+
+      \resumeItemListEnd
+
+
+  \resumeSubHeadingListEnd
+
+
+%-----------PROFESSIONAL EXPERIENCE-----------
+
+
+\section{Experience}
+
+
+\resumeSubHeadingListStart
+
+
+  \resumeSubheading{Utthunga}{Jun 2025 – Present}{Mechanical Engineering Intern}{Bengaluru, India / Houston, TX}
+
+
+     \resumeItemListStart
+
+
+        \resumeItem{Built a \textbf{pump health classifier} using synthetic vibration, temperature, and pressure data to detect OK/Warning/Failure states; achieved \textbf{96\% accuracy} with decision trees and visualized key features for interpretability.}
+
+
+        \resumeItem{Developed a \textbf{parametric Python tool} to model centrifugal pump performance curves (head, NPSH, power, efficiency) at arbitrary RPMs using 2D interpolation.}
+
+
+        \resumeItem{Engineered a \textbf{CLI + Plotly interface} to query interpolated pump data across RPM and flow conditions, inspired by APM usability workflows.}
+
+
+        \resumeItem{Designed a modular \textbf{Python} tool for shell-and-tube heat exchanger analysis using LMTD and \(\varepsilon\)-NTU methods; computed pressure drop, outlet temperature, and thermal area from YAML/CSV inputs.}
+
+
+        \resumeItem{Generated thermal effectiveness and temperature distribution plots for exchanger designs, targeting integration into simulation dashboards.}
+
+
+    \resumeItemListEnd
+
+
+\resumeSubHeadingListEnd
+ 
+ 
+%-----------ENGINEERING EXPERIENCE-----------
+
+
+\section{Clubs}
+
+
+  \resumeSubHeadingListStart
+
+
+    \resumeSubheading{Highlander Racing}{Mar 2024 -- Present}{Subteam Lead}{UC Riverside}
+
+
+      \resumeItemListStart
+
+
+         \resumeItem{Coordinated cross-subteam integration across EE, Chassis, Drivetrain, and Brakes while managing full BOM tracking, part documentation, and manufacturing drawings.}
+
+
+        \resumeItem{Simulated EV cooling in \textbf{MATLAB digital twin}; optimized fan curves and radiator layout, cutting inverter temp by 11$^{\circ}$C in endurance without added energy draw.}
+
+
+        \resumeItem{Designed and fabricated custom dual-pump mounting ring in \textbf{SolidWorks}, cutting installation time 75\% and improving mechanical stability.}
+
+
+        \resumeItem{Modeled heat dissipation  using \textbf{MATLAB} curve fitting and 100x100 extrapolated heat surfaces derived from fan spec data and OptimumLap simulations.}
+
+
+        \resumeItem{Developed and validated radiator fan shroud airflow using \textbf{SolidWorks Flow Simulation}, correlating CFD predictions with physical anemometer tests.}
+
+
+        \resumeItem{Tested VCU circuit board using \textbf{STM32CubeIDE + C}; configured CAN filters and implemented transmit/receive loopback to validate communication and hardware functionality.}
+
+
+      \resumeItemListEnd
+ 
+    \resumeSubheading{Robo-Rams (FIRST Robotics)}{Aug 2019 -- Jun 2023}{President/Engineer}{San Jose, CA}
+
+
+      \resumeItemListStart
+
+
+        \resumeItem{Led subteams in designing, fabricating, and assembling competition robots; taught \textbf{Fusion360} and machine shop safety to 25+ members.}
+
+
+        \resumeItem{Managed team operations during COVID-19, improving member retention to 90\%+ and restoring technical skills.}
+
+
+      \resumeItemListEnd
+
+
+  \resumeSubHeadingListEnd
+ 
+%-----------PROJECTS-----------
+
+
+\section{Projects}
+
+
+  \resumeSubHeadingListStart
+
+
+    \resumeSubheading{Strava Heatmap Project}{Ongoing}{Personal Project}{}
+
+
+      \resumeItemListStart
+
+
+         \resumeItem{Built a \textbf{Python-based} cycling route planner that generates unexplored 20-mile bike loops using personal ride data.}
+
+
+        \resumeItem{Applied GPX clustering via \textbf{DBSCAN} to identify ridden segments and integrated \textbf{OSMNX} for OpenStreetMap-based route generation.}
+
+
+        \resumeItem{Used \textbf{Nominatim geocoding} to localize start points and ensure routing avoids previously logged paths.}
+
+
+    \resumeSubHeadingListEnd
+
+
+      \resumeItemListEnd
+ 
+%   \resumeSubheading{Cooling Optimization Digital Twin}{2025}{Riverside, CA}{}
+
+
+%   \resumeItemListStart
+
+
+%     \resumeItem{Developed a \textbf{MATLAB digital twin} simulating EV inverter thermal behavior using lumped capacitance and simulated speed/heat profiles.}
+
+
+%     \resumeItem{Tested fan count, radiator area, and PWM control curves; \textbf{reduced peak temp by 11°C} vs bang-bang control with similar fan energy.}
+
+
+%     \resumeItem{Used \texttt{fmincon} for control optimization and designed STM32-compatible architecture for future \textbf{CAN-logged telemetry}.}
+
+
+%     \resumeItem{Codebase and writeup: \href{https://github.com/yeleshwarapu/fsae-cooling-twin}{\texttt{github.com/yeleshwarapu/fsae-cooling-twin}}}
+
+
+%   \resumeItemListEnd
+
+
+% \resumeSubHeadingListEnd
+ 
+%-----------TECHNICAL SKILLS-----------
+
+
+\section{Skills}
+
+
+  \resumeSubHeadingListStart
+
+
+    \resumeItem{\textbf{Software:} SolidWorks, MATLAB, Altium, STM32CubeIDE, Python, C, LaTeX, Git}
+
+
+  \resumeSubHeadingListEnd
+ 
+\end{document}
+ 
