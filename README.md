@@ -1,6 +1,8 @@
 
 # 📄 Resume – Divyam Savaliya
 
+This repository contains the LaTeX source code for the professional resume of **Divyam Savaliya**, a Process Engineer with experience in EPC-FEED projects, process simulation, and equipment design across greenfield and brownfield projects in the chemical and energy sectors.
+
 ## 👨‍🔬  Professional Roles
 
 Utthunga Technologies – Process Engineer (EPC-FEED)
@@ -48,3 +50,12 @@ Divyam Savaliya
 🔗 LinkedIn
 
 💻 GitHub
+
+
+## 📁 File Structure
+
+```bash
+.
+├── resume.tex              # Main LaTeX source code
+├── glyphtounicode.tex      # Unicode glyph support (required for PDF copy-paste accuracy)
+└── README.md               # Project documentation (this file)
