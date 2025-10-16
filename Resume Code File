@@ -176,7 +176,7 @@
 \resumeSubHeadingListStart
 
 
-  \resumeSubheading{Utthunga Technologies - American and European Business }{April 2025 – Present}{\textbf{Process Engineer} (EPC-FEED)}{Bengaluru, KA, India / Houston, TX, USA}
+  \resumeSubheading{Utthunga Technologies - American \& European Business }{April 2025 – Present}{\textbf{Process Engineer} (EPC-FEED)}{Bengaluru, KA, India / Houston, TX, USA}
 
 
      \resumeItemListStart
@@ -187,6 +187,8 @@
         
         \resumeItem{Develop and review process design basis, philosophies, and guidelines, while supporting FEED and EPC deliverables, vendor document reviews, and ensuring compliance with applicable codes, standards, and client specifications.}
 
+        \resumeItem{Flare study and Flare network analysis, design \& simulations to optimize process safety and operational efficiency.}
+        
         \resumeItem{Develop and review PFDs, PIDs, heat and material balances, and process datasheets.}
 
         \resumeItem{Design and simulate processes and equipment such as distillation columns, heat exchangers, reactors, and pumps using Aspen Plus, and perform detailed design, rating, and simulation of heat exchangers (STHE, reboilers, condensers, PHEs) using Aspen EDR and HTRI software.}
@@ -211,7 +213,7 @@
 
      \resumeItemListStart
 
-        \resumeItem{Prepare BEP and FEED packages for Greenfield and Brownfield projects, including concept note preparation, feasibility studies, and cost/profitability analysis..}
+        \resumeItem{Prepare BEP \& FEED packages for Greenfield and Brownfield projects, including concept note preparation, feasibility studies, and cost/profitability analysis..}
 
         \resumeItem{Develop process design deliverables such as PFDs, PIDs, PDS/IPDS, Heat and Mass Balance, heat maps, utility calculations, and process philosophies.}
         
@@ -246,13 +248,11 @@
  
     \resumeSubheading{Aspen Plus User Certificate}{June 2024}{AspenTech University}{Aspen User Certification™ Program, San Jose, CA, USA}
 
-\vspace{\baselineskip} 
-
     \resumeSubheading{Aspen HYSYS User Certificate}{Jun 2024}{AspenTech University}{Aspen User Certification™ Program, San Jose, CA, USA}
 
-\vspace{\baselineskip} 
-
     \resumeSubheading{Process Design Engineering and Advance Software Training }{Mar 2024 -- May 2024}{Converge Engineering}{Converge Engineering - Online, India}
+
+    \resumeSubheading{Flare Study and safety analyses}{June 2025 -- July 2025}{ChemKlub India}{ChemKlub India - Online, India}
 
 
   \resumeSubHeadingListEnd
@@ -269,7 +269,8 @@
 
     \resumeItem{\textbf{Process Simulation:} Aspen HYSYS, Aspen Plus, Pro-II}
     \resumeItem{\textbf{HeatEX Design and Rating:} Aspen EDR, HTRI}
-    \resumeItem{\textbf{Other Software:} Flare System Analyzer, PipeSIM, BlueBeam, OLGA}
+    \resumeItem{\textbf{Flare study Software:} Flare System Analyzer, UniSim Flare}    \resumeItem{\textbf{Flow Assurance study:} OLGA, Aspen HYSYS}
+    
 
   \resumeSubHeadingListEnd
 
@@ -294,7 +295,7 @@
   \resumeSubHeadingListStart
 
 
-    \resumeSubheading{TETRA Desalination Project (UOP)}{June 2025 - Present}{Client - TETRA Technologies LLC, TX, USA}{SHELL / EOG - Permian Basin oil companies- TX, USA }
+    \resumeSubheading{TETRA Desalination Project (FEED Package)(UOP)}{June 2025 - Present}{Client - TETRA Technologies LLC, TX, USA}{EOG - Permian Basin oil companies- TX, USA }
 
 
       \resumeItemListStart
@@ -316,7 +317,7 @@
 
   \resumeSubHeadingListStart
 
-    \resumeSubheading{Flare Network Analysis (Honeywell)}{June 2025 - Present}{Client - MOL Hungarian Oil company, Budapest, HU}{Honeywell - NC, USA }
+    \resumeSubheading{Flare Study \& Network Analysis (Study \& De-bottleneck) (Honeywell)}{June 2025 - Present}{Client - MOL Hungarian Oil company, Budapest, HU}{Honeywell - NC, USA }
 
 
       \resumeItemListStart
@@ -340,7 +341,7 @@
   \resumeSubHeadingListStart
 
 
-    \resumeSubheading{Oil Custody Terminal and LACT Unit (EM)}{April 2025 - June 2025}{Client - ExxonMobil-led Esso Exploration and Production Chad Inc. (EEPCI), Chad}{Doba Basin - MA, Chad Republics}
+    \resumeSubheading{Oil Custody Transfer Terminal \& LACT Unit (ExxonMobil)}{April 2025 - June 2025}{Client - ExxonMobil-led Esso Exploration and Production Chad Inc. (EEPCI), Chad}{Doba Basin - MA, Chad Republics}
 
 
       \resumeItemListStart
